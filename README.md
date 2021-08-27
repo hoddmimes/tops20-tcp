@@ -1,5 +1,5 @@
 # tops20-tcp
-A hack illustrating how to create a tcp/ip connection and declare a tcp/ip srv on PDP-10 TOPS and [KCC-6](http://wiki.twenex.org/tutorials:kcc).
+A hack illustrating how to create a Tcp/Ip connection and declare a Tcp/Ip srv on PDP-10 TOPS and [KCC-6](http://wiki.twenex.org/tutorials:kcc).
 
 This is quite an odd project. Unless you do not have an incurable passion for [PDP-10](https://gunkies.org/wiki/PDP-10) / [TOPS-20](https://opost.com/tenex/hbook.html) system you should continue and go on.
 
@@ -15,4 +15,4 @@ The need for this functionality today on the TOPS-20 platform is NIL. :-) But it
 To understand the essential TCP/IP interface on TOPS-20 you should read the  JSYS_REFERENCE.MEM section 5-28.
 
 Possibly the [Utha PCC-20](https://github.com/PDP-10/utah-pcc20) compiler has a more complete implementation of the socket interface. It's however not part of the Panda distribution and 
-must be installed possibly built on the TOPS-20 installation.
+must be installed possibly built on the TOPS-20 installation. 
